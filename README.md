@@ -8,7 +8,7 @@
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️️  You can contact me at [vtranscendeals@gmail.com](mailto:vtranscendeals@gmail.com)
-* 🚀  I'm currently working on [AI Robot For The Forex Market](http://www.zummitafrica.com)
+* 🚀  I'm currently working on [AI Robot For The Forex Market](mailto:vtranscendeals@gmail.com)
 * 🧠  I'm currently learning Data Science in Zumitafrica and being responsible for building a community where people can create a second source of income through Blockchain Technology.
 * 🤝  I'm open to attending seminars and trainings to help me build up my skills in data science ML/DL Projects
 * ⚡  I'm a Barca Fan.  A Public Speaker and an Author of two books in Relationship Psychology
