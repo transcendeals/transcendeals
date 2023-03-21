@@ -30,10 +30,6 @@ src="https://img.shields.io/github/followers/transcendeals?logo=github&style=for
     <img alt="MySQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   </a>
   
-   <a href="https://www.mql5.com/">
-    <img alt="MQL5" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  </a>
-  
  
   <a href="" target="_blank">
     <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
