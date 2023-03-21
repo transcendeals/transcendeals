@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I+am+an+AI+Enthusiast!" /></a>
 </p>
 
-![](https://github.com/transcendeals/transcendeals/blob/main/image%20me.jpg))
+![]([https://github.com/transcendeals/transcendeals/blob/main/image%20me%202.jpg)
 
 
 * 🌍  I'm based in Lagos, Nigeria
@@ -11,7 +11,7 @@
 * 🚀  I'm currently working on [AI Robot For The Forex Market](http://www.zummitafrica.com)
 * 🧠  I'm currently learning Data Science in Zumitafrica and being responsible for building a community where people can create a second source of income through Blockchain Technology.
 * 🤝  I'm open to attending seminars and trainings to help me build up my skills in data science ML/DL Projects
-* ⚡  I'm a Manchester United fan, Melophile and a gym rat.
+* ⚡  I'm a Barca Fan.  A Public Speaker and an Author of two books in Relationship Psychology
 
 <a href="https://twitter.com/paysuandme" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/paysuandme?logo=twitter&style=for-the-badge&color=000000&labelColor=1e3a8a"
