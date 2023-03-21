@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I+am+an+AI+Enthusiast!" /></a>
 </p>
 
-![]([https://github.com/transcendeals/transcendeals/blob/main/image%20me%202.jpg)
+![]([https://github.com/transcendeals/transcendeals/blob/main/image%20me%202.jpg])
 
 
 * 🌍  I'm based in Lagos, Nigeria
